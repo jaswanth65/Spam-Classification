@@ -1,4 +1,4 @@
-# 📩 SMS Spam Classifier — Naive Bayes
+# 📩 SMS Spam Classifier — Naive Bayes from Scratch
 
 A complete, from-scratch pipeline for classifying SMS messages as **Spam** or **Ham (not spam)** using classical NLP preprocessing, Bag-of-Words feature extraction, and a **Multinomial Naive Bayes** classifier — tuned with `GridSearchCV` and evaluated with confusion matrix, ROC, and Precision-Recall curves.
 
