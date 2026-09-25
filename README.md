@@ -182,8 +182,7 @@ Evaluated on a held-out **20% stratified test split** (1,034 messages: 903 ham, 
 
 ```
 sms-spam-classifier/
-├── sms_spam_collection/
-│   └── SMSSpamCollection          # Raw tab-separated dataset
+├── SMSSpamCollection              # Raw tab-separated dataset
 ├── spam_classification.ipynb      # Full notebook: EDA → preprocessing → training → evaluation
 ├── spam_detection_model.joblib    # Saved, ready-to-use trained pipeline
 ├── requirements.txt
